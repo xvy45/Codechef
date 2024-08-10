@@ -1,3 +1,7 @@
+/**
+problem link-> https://www.codechef.com/learn/course/greedy-algorithms/LIGRDSA01/problems/XYSTRP
+**/
+
 #include<bits/stdc++.h>
 using namespace std;
 
