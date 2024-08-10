@@ -12,7 +12,6 @@ int main()
 
     while(t--)
     {
-
         int ans = 0;
         string s;
         cin >> s;
